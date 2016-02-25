@@ -1,5 +1,9 @@
 # ip.aquabsd.org ![License][license-img]
 
+```bash
+curl http://ip.aquabsd.org/
+```
+
 # Millipede
 
 ```

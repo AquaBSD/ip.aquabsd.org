@@ -8,9 +8,9 @@ This script allow users to perform an IP address lookup.
 
 ## Requirements
 
-You need to create simple PHP vhost pointing to `public` folder.
+You need to configure simple PHP vhost pointing to `public` folder.
 
-Example:
+Example with nginx:
 
 ```
 server {
